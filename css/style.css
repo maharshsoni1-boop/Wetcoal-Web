@@ -1718,6 +1718,10 @@ footer {
     padding: 1.2rem 0;
   }
   
+  .logo-img {
+    height: 38px; /* Slightly smaller logo on mobile to prevent navbar crowding */
+  }
+  
   .mobile-toggle {
     display: block;
     z-index: 1001;
@@ -1797,8 +1801,12 @@ footer {
 }
 
 @media (max-width: 480px) {
+  .container {
+    padding: 0 1.25rem; /* Spacious padding on narrow screens */
+  }
+
   .hero h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem; /* Avoid word-wrap issues on iPhone SE screens */
   }
   
   .serve-grid {
@@ -1827,6 +1835,15 @@ footer {
   
   .support-logo {
     height: 38px;
+  }
+
+  /* Center resources card actions on narrow viewports */
+  .one-pager-content {
+    text-align: center;
+  }
+
+  .one-pager-content div[style*="display: flex"] {
+    justify-content: center;
   }
 }
 
