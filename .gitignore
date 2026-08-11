@@ -1,9 +1,6 @@
 # Node dependencies
 node_modules/
 
-# Large media assets (unsuitable for Git history)
-assets/wetcoal_intro.mp4
-
 # AI agents workspace config & local logs
 .gemini/
 .agents/
