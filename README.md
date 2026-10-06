@@ -1,6 +1,6 @@
 # WETCOAL Website
 
-A modern, professional cleantech marketing website for **WETCOAL** (Ecozza Green Tech Solutions Private Limited), specializing in patented Aqua Phase Reforming (APR) technology that converts sewage sludge into Biocoal and Biochar.
+A modern, professional cleantech marketing website for **WETCOAL**, specializing in patented Aqua Phase Reforming (APR) technology that converts sewage sludge into Biocoal and Biochar.
 
 Designed with a premium dark industrial-tech aesthetic, optimized for search engines (SEO), and fully responsive.
 
